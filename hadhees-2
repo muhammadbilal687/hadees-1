@@ -1,0 +1,413 @@
+<html>
+
+<head>
+    
+    <style>
+    
+        body{
+            
+          font-family: sans-serif;
+            background-color: #5e7276;
+            padding: 10px 400px;
+            font-size: 25px;
+        }
+        h1{
+            
+            font-size: 45px;
+            color: aliceblue;
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+        }
+        p{
+            color: white
+        }
+        blockquote{
+            
+            color: bisque;
+            font-weight: bold;
+            font-size: 25px;
+            background-color: blue;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 15px #000;
+        }
+    </style>
+    
+    
+    </head>
+<body>
+    
+    
+<h1>Lesson01</h1>
+    
+    <p>Prophet Muhammad said
+        മുഹമ്മദ് നബി പറഞ്ഞു:<span style="font-size:20px; color: #ff0;" ><q>Islam is based on (the following) five (principles) ഇസ്ലാം (ഇനിപ്പറയുന്ന) അഞ്ച് (തത്ത്വങ്ങൾ) അടിസ്ഥാനമാക്കിയുള്ളതാണ്
+        </q></span></p>
+<!--    html entities-->
+    
+    
+    
+    <blockquote cite="https://sunnah.com/bukhari/2">
+1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger (ﷺ).
+
+2. To offer the  prayers dutifully and perfectly.
+
+3. To pay Zakat  .
+
+4. To perform Hajj. 
+
+5. To observe fast during the month of Ramadan.
+1. അല്ലാഹുവും മുഹമ്മദും അല്ലാഹുവിന്റെ ദൂതനാണ് (ﷺ) അല്ലാതെ മറ്റാർക്കും ആരാധിക്കപ്പെടാൻ അവകാശമില്ലെന്ന് സാക്ഷ്യപ്പെടുത്താൻ.
+
+2. പ്രാർത്ഥനകൾ കർത്തവ്യമായും പൂർണ്ണമായും അർപ്പിക്കുക.
+
+3. സകാത്ത് കൊടുക്കാൻ .
+
+4. ഹജ്ജ് നിർവഹിക്കാൻ.
+
+5. റമദാൻ മാസത്തിൽ നോമ്പ് അനുഷ്ഠിക്കാൻ
+
+        </blockquote>)
+    Reference	 : Sahih al-Bukhari 8
+In-book reference	 : Book 2, Hadith 1
+USC-MSA web (English) reference	 : Vol. 1, Book 2, Hadith 8
+  (deprecated numbering scheme)
+    </body><head>
+    
+    <style>
+    
+        body{
+            
+          font-family: sans-serif;
+            background-color: #5e7276;
+            padding: 10px 400px;
+            font-size: 25px;
+        }
+        h1{
+            
+            font-size: 45px;
+            color: aliceblue;
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+        }
+        p{
+            color: white
+        }
+        blockquote{
+            
+            color: bisque;
+            font-weight: bold;
+            font-size: 25px;
+            background-color:blue;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 15px #000;
+        }
+    </style>
+    
+    
+    </head>
+<body>
+    
+    
+<h1>Lesson02</h1>
+    
+    <p>Prophet Muhammad said
+        മുഹമ്മദ് നബി പറഞ്ഞു:<span style="font-size:20px; color: #ff0;" ><q>You do not do evil to those who do evil to you.
+        But you deal them with forgiveness &amp; kindness.നിങ്ങളോട് തിന്മ ചെയ്യുന്നവരോട് നിങ്ങൾ തിന്മ ചെയ്യുന്നില്ല.
+         എന്നാൽ നിങ്ങൾ ക്ഷമയോടെ അവരെ കൈകാര്യം &  ദയ.</</q></span></p>
+<!--    html entities-->
+    
+    <p><i>Here is a quote for my website</i></p>
+    
+    <blockquote cite="arivology.blogspot.in">
+    ധനം എല്ലാവര്‍ക്കും നല്‍കാന്‍ കഴിയില്ല. എന്നാല്‍ മുഖ പ്രസന്നയും സത്സ്വഭാവവും എല്ലാവര്‍ക്കും നല്‍കാന്‍ കഴിയും</blockquote>
+    <head>
+    
+    <style>
+    
+        body{
+            
+          font-family: sans-serif;
+            background-color: #5e7276;
+            padding: 10px 400px;
+            font-size: 25px;
+        }
+        h1{
+            
+            font-size: 45px;
+            color: aliceblue;
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+        }
+        p{
+            color: white
+        }
+        blockquote{
+            
+            color: bisque;
+            font-weight: bold;
+            font-size: 25px;
+            background-color: blue;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 15px #000;
+        }
+    </style>
+    
+    
+    </head>
+<body>
+    
+    
+<h1>Lesson03</h1>
+    
+    <p>Prophet Muhammad said
+        മുഹമ്മദ് നബി പറഞ്ഞു:<span style="font-size:20px; color: #ff0;" ><q>
+    .</q></span></p>
+<!--    html entities-->
+    
+    
+    <blockquote cite="https://sunnah.com/bukhari/2">  The Prophet (ﷺ) said, "A Muslim is the one who avoids harming Muslims with his tongue and hands. And a Muhajir (emigrant) is the one who gives up (abandons) all what Allah has forbidden." 
+        പ്രവാചകൻ (ﷺ) പറഞ്ഞു: "മുസ്‌ലിംകളെ നാവിലൂടെയും കൈകളിലൂടെയും ഉപദ്രവിക്കുന്നത് ഒഴിവാക്കുന്നവനാണ് മുസ്‌ലിം. അല്ലാഹു വിലക്കിയതെല്ലാം ഉപേക്ഷിക്കുന്നവനാണ് മുഹാജിർ".
+   </blockquote>.
+   Reference	 : Sahih al-Bukhari 10
+In-book reference	 : Book 2, Hadith 3
+USC-MSA web (English) reference	 : Vol. 1, Book 2, Hadith 10
+  (deprecated numbering scheme)
+    </body>
+<head>
+    
+    <style>
+    
+        body{
+            
+          font-family: sans-serif;
+            background-color: #5e7276;
+            padding: 10px 400px;
+            font-size: 25px;
+        }
+        h1{
+            
+            font-size: 45px;
+            color: aliceblue;
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+        }
+        p{
+            color: white
+        }
+        blockquote{
+            
+            color: bisque;
+            font-weight: bold;
+            font-size: 25px;
+            background-color: blue;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 15px #000;
+        }
+    </style>
+    
+    
+    </head>
+<body>
+    
+    
+<h1>Lesson04</h1>
+    
+    <p>Prophet Muhammad said 
+        മുഹമ്മദ് നബി പറഞ്ഞു:<span style="font-size:20px; color: #ff0;" ><q>
+    .</q></span></p>
+<!--    html entities-->
+    
+    The Prophet (ﷺ) said, 
+    <blockquote cite="https://sunnah.com/bukhari/2">A person asked Allah's Messenger (ﷺ) . "What (sort of) deeds in or (what qualities of) Islam are good?" He replied, "To feed (the poor) and greet those whom you know and those whom you don't know."ഒരാൾ അല്ലാഹുവിന്റെ ദൂതനോട് (ﷺ) ചോദിച്ചു. "ഇസ്ലാമിലെ എന്ത് (തരം) പ്രവൃത്തികളാണ് നല്ലത്? അദ്ദേഹം മറുപടി പറഞ്ഞു: "(പാവപ്പെട്ടവർക്ക്) ഭക്ഷണം നൽകാനും നിങ്ങൾക്കറിയാവുന്നവരെയും അറിയാത്തവരെയും അഭിവാദ്യം ചെയ്യുന്നതിനും."
+   </blockquote>
+   Reference	 : Sahih al-Bukhari 28
+In-book reference	 : Book 2, Hadith 21
+USC-MSA web (English) reference	 : Vol. 1, Book 2, Hadith 28
+  (deprecated numbering scheme)
+    </body>
+<head>
+    
+    <style>
+    
+        body{
+            
+          font-family: sans-serif;
+            background-color: #5e7276;
+            padding: 10px 400px;
+            font-size: 25px;
+        }
+        h1{
+            
+            font-size: 45px;
+            color: aliceblue;
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+        }
+        p{
+            color: white
+        }
+        blockquote{
+            
+            color: bisque;
+            font-weight: bold;
+            font-size: 25px;
+            background-color: blue;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 15px #000;
+        }
+    </style>
+    
+    
+    </head>
+<body>
+    
+    
+<h1>Lesson05</h1>
+    
+    <p>Prophet Muhammad said 
+        മുഹമ്മദ് നബി പറഞ്ഞു:<span style="font-size:20px; color: #ff0;" ><q>
+    .</q></span></p>
+<!--    html entities-->
+    
+    The Prophet (ﷺ) said, 
+    <blockquote cite="https://sunnah.com/bukhari/2">I gave the pledge of allegiance to Allah's Messenger (ﷺ) for the following താഴെപ്പറയുന്ന കാര്യങ്ങൾക്കായി ഞാൻ അല്ലാഹുവിന്റെ റസൂലിനോട് (ﷺ) ബൈഅത്ത് ചെയ്തു.:
+
+1. offer prayers perfectly
+
+2. pay the Zakat (obligatory charity)
+
+3. and be sincere and true to every Muslim.പ്രാർത്ഥനകൾ തികച്ചും അർപ്പിക്കുക
+
+2. സകാത്ത് (നിർബന്ധ ദാനം)
+
+3. ഓരോ മുസ്ലിമിനോടും ആത്മാർത്ഥതയും സത്യസന്ധതയും പുലർത്തുക.
+   </blockquote>
+   Reference	 : Sahih al-Bukhari 57
+In-book reference	 : Book 2, Hadith 50
+USC-MSA web (English) reference	 : Vol. 1, Book 2, Hadith 55
+  (deprecated numbering scheme)
+    </body>
+<head>
+    
+    <style>
+    
+        body{
+            
+          font-family: sans-serif;
+            background-color: #5e7276;
+            padding: 10px 400px;
+            font-size: 25px;
+        }
+        h1{
+            
+            font-size: 45px;
+            color: aliceblue;
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+        }
+        p{
+            color: white
+        }
+        blockquote{
+            
+            color: bisque;
+            font-weight: bold;
+            font-size: 25px;
+            background-color: blue;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 15px #000;
+        }
+    </style>
+    
+    
+    </head>
+<body>
+    
+    
+<h1>Lesson06</h1>
+    
+    <p>Prophet Muhammad said
+        മുഹമ്മദ് നബി പറഞ്ഞു:<span style="font-size:20px; color: #ff0;" ><q>
+    .</q></span></p>
+<!--    html entities-->
+    
+    The Prophet (ﷺ) said, 
+    <blockquote cite="https://sunnah.com/bukhari/2">The Prophet (ﷺ) said, "Abusing a Muslim is Fusuq (an evil doing) and killing him is Kufr (disbelief).ring scheme)നബി(സ) പറഞ്ഞു: ഒരു മുസ്ലിമിനെ ദുരുപയോഗം ചെയ്യുന്നത് ഫുസുഖ് ആണ്, അവനെ കൊല്ലുന്നത് കുഫ്ർ (അവിശ്വാസം) ആണ്.
+   </blockquote>
+   Reference	 : Sahih al-Bukhari 48
+In-book reference	 : Book 2, Hadith 41
+USC-MSA web (English) reference	 : Vol. 1, Book 2, Hadith 47
+  (deprecated numbering scheme)
+    </body>
+    <head>
+    
+    <style>
+    
+        body{
+            
+          font-family: sans-serif;
+            background-color: #5e7276;
+            padding: 10px 400px;
+            font-size: 25px;
+        }
+        h1{
+            
+            font-size: 45px;
+            color: aliceblue;
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+        }
+        p{
+            color: white
+        }
+        blockquote{
+            
+            color: bisque;
+            font-weight: bold;
+            font-size: 25px;
+            background-color: blue;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 15px #000;
+        }
+    </style>
+    
+    
+    </head>
+<body>
+    
+    
+<h1>Lesson07</h1>
+    
+    <p>Prophet Muhammad said
+        മുഹമ്മദ് നബി പറഞ്ഞു:<span style="font-size:20px; color: #ff0;" ><q>
+    .</q></span></p>
+<!--    html entities-->
+    
+    The Prophet (ﷺ) said, 
+    <blockquote cite="https://sunnah.com/bukhari/2">  Messenger of Allah, which mosque was set up first on the earth? He said: Al-Masjid al-Haram (the sacred). I (again) said: Then which next? He said: It was the Masjid Aqsa. I (again) said: How long the space of time (between their setting up)? He (the Holy Prophet) said: It was forty years. And whenever the time comes for prayer, pray there, for that is a mosque; and in the hadith transmitted by Abu Kamil (the words are):" Whenever time comes for prayer, pray, for that is a mosque (for you).
+        അല്ലാഹുവിന്റെ ദൂതരേ, ഭൂമിയിൽ ആദ്യമായി സ്ഥാപിച്ച പള്ളി ഏതാണ്? അദ്ദേഹം പറഞ്ഞു: അൽ മസ്ജിദുൽ ഹറാം (വിശുദ്ധം). ഞാൻ (വീണ്ടും) പറഞ്ഞു: പിന്നെ അടുത്തത് ഏതാണ്? അദ്ദേഹം പറഞ്ഞു: അത് മസ്ജിദ് അഖ്സ ആയിരുന്നു. ഞാൻ (വീണ്ടും) പറഞ്ഞു: (അവരുടെ സജ്ജീകരണങ്ങൾക്കിടയിൽ) എത്ര സമയം? നബി(സ) പറഞ്ഞു: നാൽപ്പത് വർഷമായി. പ്രാർത്ഥനയുടെ സമയം വരുമ്പോഴെല്ലാം അവിടെ പ്രാർത്ഥിക്കുക, അതൊരു പള്ളിയാണ്. അബു കാമിൽ പ്രക്ഷേപണം ചെയ്ത ഹദീസിൽ (വാക്കുകൾ):" നമസ്കാരത്തിന് സമയമാകുമ്പോഴെല്ലാം പ്രാർത്ഥിക്കുക, അത് ഒരു പള്ളിയാണ് (നിങ്ങൾക്ക്).
+   </blockquote>
+   Reference	 : Sahih Muslim 520a
+In-book reference	 : Book 5, Hadith 1
+USC-MSA web (English) reference	 : Book 4, Hadith 1056
+  (deprecated numbering scheme)
+    </body>
+
+    </body>
+
+
+</html>
